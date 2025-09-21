@@ -62,4 +62,4 @@ Since all data remains on your device, to exercise any right related to your pho
 
 If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us at:
 > **Developer:** HE Mugen
-> **Email:** **[xxx@aliyun.com](mailto:mugenhe@aliyun.com)**
+> **Email:** **[mugenhe@aliyun.com](mailto:mugenhe@aliyun.com)**
