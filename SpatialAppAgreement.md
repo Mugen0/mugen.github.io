@@ -45,5 +45,6 @@ This Agreement shall be governed by and construed in accordance with the laws of
 
 9. Contact Information
 If you have any questions about this Agreement, please contact us at:
-Developer: HE Mugen
-Email: mugenhe@aliyun.com
+
+> Developer: HE Mugen
+> Email: mugenhe@aliyun.com
