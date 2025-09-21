@@ -2,7 +2,7 @@
 
 **Last Updated:** Sept 21, 2025
 
-HE Mugen ("**we**," "**us**," or "**our**") built the Spatial app ("**App**") as a Freemium app. This SERVICE is provided at no cost and is intended for use as is.
+HE Mugen ("we," "us," or "our") built the Spatial app ("App") on a freemium model. This means the free version of the app allows you to perform a limited number of conversion tasks, while the paid subscription provides unlimited access to all features without any usage restrictions.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our App.
 
