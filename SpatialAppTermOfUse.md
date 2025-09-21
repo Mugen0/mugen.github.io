@@ -22,7 +22,7 @@ Your privacy is extremely important to us.
 
 - **Network Access:** The App requires an internet connection **only** for one purpose: to communicate with Apple's App Store servers to verify the status of your active subscription, as managed through Apple's In-App Purchase system. This process is essential for maintaining access to premium features and does not involve transmitting your personal data.
 
-For more details, please review our [Privacy Policy](link-to-your-privacy-policy).
+For more details, please review our [Privacy Policy](https://mugen0.github.io/mugen.github.io/SpatialAppPrivacyAgreement.html).
 
 ## 3. Intellectual Property Rights
 
